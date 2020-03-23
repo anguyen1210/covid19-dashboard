@@ -23,6 +23,7 @@ This website contains visualizations and analysis that are build from data sourc
 
 ## Articles
 
+- [COVID-19: Imperial researchers model likely impact of public health measures](https://www.imperial.ac.uk/news/196234/covid19-imperial-researchers-model-likely-impact/) Mar 17, 2020: The press release by Imperial College summarizing the main findings of the report by their COVID-19 response team, which models the spread and impact of the pandemic under different reponse scenarios. Widely cited and directly shaping government response on both sides of the Atlantic. Includes link to the full report (look for 'Report 9').
 - [Why outbreaks like the coronavirus spread exponentially and how to flatten the curve](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/?itid=hp_hp-banner-low_virus-simulator520pm%3Ahomepage%2Fstory-ans) Washington Post, Mar 14, 2020.
 -  [COVID-19 outbreak response: first assessment of mobility changes in Italy following lockdown](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html), Mar 13, 2020 
 -  [Open letter from Italy to the interational scientific community](https://left.it/2020/03/13/covid_19-open-letter-from-italy-to-the-international-scientific-community/)  Mar 13, 2020 
